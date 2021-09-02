@@ -1,0 +1,13 @@
+{
+	"n_targets": 237012,
+	"n_bootstraps": 0,
+	"n_processed": 22935521,
+	"n_pseudoaligned": 21475182,
+	"n_unique": 4590235,
+	"p_pseudoaligned": 93.6,
+	"p_unique": 20.0,
+	"kallisto_version": "0.46.2",
+	"index_version": 10,
+	"start_time": "Wed Aug 25 00:46:37 2021",
+	"call": "kallisto quant -i results/gencode.v38.transcripts.idx -o results/counts/SRR1039508/abundance.tsv fastq/SRR1039508_1.fastq.gz fastq/SRR1039508_2.fastq.gz"
+}
